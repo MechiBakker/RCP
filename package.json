@@ -1,0 +1,17 @@
+{
+  "name": "lap",
+  "version": "1.0.0",
+  "description": "lap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "ember-cli-materialize": "^0.22.0"
+  }
+}
